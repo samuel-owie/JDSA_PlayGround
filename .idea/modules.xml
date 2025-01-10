@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JDSA_PlayGround.iml" filepath="$PROJECT_DIR$/.idea/JDSA_PlayGround.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDSA_Playground/JDSA_Playground.iml" filepath="$PROJECT_DIR$/JDSA_Playground/JDSA_Playground.iml" />
+    </modules>
+  </component>
+</project>
